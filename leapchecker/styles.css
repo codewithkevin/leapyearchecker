@@ -32,6 +32,8 @@ p {
   font-weight: bolder;
   cursor: pointer;
   font-size: 20px;
+  background: black;
+  color: white;
 }
 
 
